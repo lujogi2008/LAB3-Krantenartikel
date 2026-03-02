@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(175, 227, 227); 
+    border: 2px solid black;
+    width:750px;
+    padding: 10px;
+}
+
+img{
+    border: 2px solid black;
+    margin: 10px;
+}
+
+#vloot1{
+    float: left;
+}
+#vloot2{
+    float: right;
+}
+#vloot3{
+    float: left;
+}
